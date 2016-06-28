@@ -33,7 +33,6 @@ public class MainActivity extends Activity implements View.OnClickListener {
     public static String mAppid;
     public static String openidString;
     public static String nicknameString;
-    public static String TAG = "MainActivity";
     Bitmap bitmap = null;
     private BaseUiListener listener;
 
